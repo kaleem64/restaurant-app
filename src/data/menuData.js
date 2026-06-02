@@ -12,7 +12,7 @@ export const popularDishes = [
     name: "Caesar Salad", 
     price: 8.99, 
     category: "Starters", 
-    image: "https://images.unsplash.com/photo-1550304943-4f24f54ddb94?w=400&h=300&fit=crop", 
+    image: "https://images.unsplash.com/photo-1546793665-c74683f339c1?w=400&h=300&fit=crop", 
     description: "Crispy romaine, parmesan, croutons" 
   },
   { 
