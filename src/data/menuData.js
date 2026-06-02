@@ -31,7 +31,7 @@ export const menuItems = [
     name: "Garlic Bread", 
     price: 5.99, 
     category: "Starters", 
-    image: "https://unsplash.com/photos/ginger-bread-on-brown-baskets-BRMvT4sw-4c", 
+    image: "https://images.unsplash.com/photo-1573140401552-3fab0b24306f?q=80&w=435&h=300&fit=crop", 
     description: "Toasted bread with garlic butter" 
   },
   { 
